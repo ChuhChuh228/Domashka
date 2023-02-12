@@ -1,0 +1,15 @@
+C:\шаг\ooo\bin\Debug\net7.0\ooo.exe
+C:\шаг\ooo\bin\Debug\net7.0\ooo.deps.json
+C:\шаг\ooo\bin\Debug\net7.0\ooo.runtimeconfig.json
+C:\шаг\ooo\bin\Debug\net7.0\ooo.dll
+C:\шаг\ooo\bin\Debug\net7.0\ooo.pdb
+C:\шаг\ooo\obj\Debug\net7.0\ooo.csproj.AssemblyReference.cache
+C:\шаг\ooo\obj\Debug\net7.0\ooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\шаг\ooo\obj\Debug\net7.0\ooo.AssemblyInfoInputs.cache
+C:\шаг\ooo\obj\Debug\net7.0\ooo.AssemblyInfo.cs
+C:\шаг\ooo\obj\Debug\net7.0\ooo.csproj.CoreCompileInputs.cache
+C:\шаг\ooo\obj\Debug\net7.0\ooo.dll
+C:\шаг\ooo\obj\Debug\net7.0\refint\ooo.dll
+C:\шаг\ooo\obj\Debug\net7.0\ooo.pdb
+C:\шаг\ooo\obj\Debug\net7.0\ooo.genruntimeconfig.cache
+C:\шаг\ooo\obj\Debug\net7.0\ref\ooo.dll
