@@ -5,4 +5,7 @@
 //    new Student{Name = "Gleb", Group = "RZHD538", AvgMark = 9.1},
 //    new Student{Name = "Petrii", Group = "RZHD538", AvgMark = 10.9},
 //};
+var Dzshki = new List<DZ>()
+{
 
+};
