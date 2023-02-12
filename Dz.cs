@@ -4,5 +4,5 @@ class DZ
     int IdLesoner {get; set;}
     string NameLesson {get; set;}
     string DescDZ {get; set;}
-    int DZ {get; set;} 
+    int MARK {get; set;} 
 }

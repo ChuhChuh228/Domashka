@@ -7,5 +7,5 @@
 //};
 var Dzshki = new List<DZ>()
 {
-
+    new DZ{IdStudent = 1, IdLesoner = 228, NameLesson = "List", DescDZ = "super", MARK = 10},
 };
