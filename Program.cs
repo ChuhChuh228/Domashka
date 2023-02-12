@@ -9,5 +9,5 @@ var Dzshki = new List<DZ>()
 {
     new DZ{IdStudent = 5, IdLesoner = 228, NameLesson = "List", DescDZ = "super", MARK = 10},
     new DZ{IdStudent = 5, IdLesoner = 228, NameLesson = "Shota", DescDZ = "Ы сруь-ео", MARK = 5},
-    new DZ{IdStudent = 1, IdLesoner = 6, NameLesson = "С++", DescDZ = "peremeni", MARK = 4},
+    new DZ{IdStudent = 1, IdLesoner = 6, NameLesson = "С++", DescDZ = "peremeni", MARK = 4}
 };
