@@ -11,3 +11,9 @@ var Dzshki = new List<DZ>()
     new DZ{IdStudent = 5, IdLesoner = 228, NameLesson = "Shota", DescDZ = "Ы сруь-ео", MARK = 5},
     new DZ{IdStudent = 1, IdLesoner = 6, NameLesson = "С++", DescDZ = "peremeni", MARK = 4}
 };
+
+//0
+foreach (var dzo in Dzshki)
+{
+    Console.WriteLine(f"Ид студента: {dzo.IdStudent}, Ид учителя: {dzo.IdLesoner}, Имя предета:{dzo.NameLesson}, Описание: {dzo.DescDZ}, Оценка{dzo.MARK}");
+}
