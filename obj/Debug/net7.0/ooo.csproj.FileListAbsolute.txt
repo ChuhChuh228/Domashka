@@ -13,3 +13,11 @@ C:\шаг\ooo\obj\Debug\net7.0\refint\ooo.dll
 C:\шаг\ooo\obj\Debug\net7.0\ooo.pdb
 C:\шаг\ooo\obj\Debug\net7.0\ooo.genruntimeconfig.cache
 C:\шаг\ooo\obj\Debug\net7.0\ref\ooo.dll
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.csproj.AssemblyReference.cache
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.AssemblyInfoInputs.cache
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.AssemblyInfo.cs
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.csproj.CoreCompileInputs.cache
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.dll
+C:\МейнХуй\Domashka\obj\Debug\net7.0\refint\ooo.dll
+C:\МейнХуй\Domashka\obj\Debug\net7.0\ooo.pdb

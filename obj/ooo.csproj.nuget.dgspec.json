@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\шаг\\ooo\\ooo.csproj": {}
+    "C:\\МейнХуй\\Domashka\\ooo.csproj": {}
   },
   "projects": {
-    "C:\\шаг\\ooo\\ooo.csproj": {
+    "C:\\МейнХуй\\Domashka\\ooo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\шаг\\ooo\\ooo.csproj",
+        "projectUniqueName": "C:\\МейнХуй\\Domashka\\ooo.csproj",
         "projectName": "ooo",
-        "projectPath": "C:\\шаг\\ooo\\ooo.csproj",
+        "projectPath": "C:\\МейнХуй\\Domashka\\ooo.csproj",
         "packagesPath": "C:\\Users\\Данжен Мастер\\.nuget\\packages\\",
-        "outputPath": "C:\\шаг\\ooo\\obj\\",
+        "outputPath": "C:\\МейнХуй\\Domashka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

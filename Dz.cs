@@ -1,8 +1,8 @@
 class DZ
 {
-    int IdStudent {get; set;}
-    int IdLesoner {get; set;}
-    string NameLesson {get; set;}
-    string DescDZ {get; set;}
-    int MARK {get; set;} 
+    public int IdStudent {get; set;}
+    public int IdLesoner {get; set;}
+    public string NameLesson {get; set;}
+    public string DescDZ {get; set;}
+    public int MARK {get; set;} 
 }

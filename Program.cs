@@ -5,7 +5,7 @@
 //    new Student{Name = "Gleb", Group = "RZHD538", AvgMark = 9.1},
 //    new Student{Name = "Petrii", Group = "RZHD538", AvgMark = 10.9},
 //};
-var Dzshki = new List<DZ>()
+var Dzshki = new List<Dz>()
 {
     new DZ{IdStudent = 5, IdLesoner = 228, NameLesson = "List", DescDZ = "super", MARK = 10},
     new DZ{IdStudent = 5, IdLesoner = 228, NameLesson = "Shota", DescDZ = "Ы сруь-ео", MARK = 5},
@@ -15,5 +15,5 @@ var Dzshki = new List<DZ>()
 //0
 foreach (var dzo in Dzshki)
 {
-    Console.WriteLine(f"Ид студента: {dzo.IdStudent}, Ид учителя: {dzo.IdLesoner}, Имя предета:{dzo.NameLesson}, Описание: {dzo.DescDZ}, Оценка{dzo.MARK}");
+    Console.WriteLine("Ид студента: {dzo.IdStudent}, Ид учителя: {dzo.IdLesoner}, Имя предета:{dzo.NameLesson}, Описание: {dzo.DescDZ}, Оценка{dzo.MARK}");
 }
